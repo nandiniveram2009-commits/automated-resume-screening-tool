@@ -25,7 +25,20 @@ This project mirrors real-world **Applicant Tracking Systems (ATS)** and **HR Te
 - **Hybrid Scoring Engine:** Combines Must-Have Skill Match (45%), TF-IDF Cosine Similarity (30%), Experience Fit (15%), and Nice-to-Have Skills (10%).
 - **Automated Reporting & UI:** Generates `screening_report.csv`, `screening_results.json`, an interactive **Streamlit** dashboard, and **FastAPI** endpoints ready for a Next.js frontend.
 
----
+## Sample Output
+Rank	Candidate File	Final Score	Decision	Experience	Missing Must-Have Gaps
+1	01_aarav_sharma_strong.txt	78.42	Shortlisted	3.0 yrs	None
+2	02_priya_nair_good.docx	70.15	Shortlisted	2.0 yrs	None
+3	03_rohan_verma_mid_gap.txt	49.80	Review (Skill Gaps)	2.5 yrs	Pandas, Scikit-learn, NLP
+4	04_sneha_kapoor_fresher.txt	44.65	Rejected	1.0 yrs	SQL, NLP
+5	05_kabir_mehta_mismatch.txt	11.20	Rejected	4.0 yrs	Python, SQL, Pandas, Scikit-learn, NLP, Git
+
+##Learning Outcomes
+Building modular, production-style Python packages.
+Handling real-world unstructured PDF/DOCX extraction edge cases.
+Applying TF-IDF vectorization and Cosine Similarity for document matching.
+Designing explainable ML scoring pipelines and REST APIs.
+
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3.10+
@@ -34,7 +47,7 @@ This project mirrors real-world **Applicant Tracking Systems (ATS)** and **HR Te
 - **Document Parsing:** `pdfplumber`, `PyPDF2`, `python-docx`, `fpdf2`
 - **Dashboard & API:** `Streamlit`, `FastAPI`, `Uvicorn`
 
----
+-- 
 
 ## 📂 Folder Structure
 ```text
