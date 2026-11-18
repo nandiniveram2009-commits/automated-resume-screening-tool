@@ -1,0 +1,23 @@
+{
+  "job_title": "Junior Python & Data / NLP Engineer",
+  "min_experience_years": 2.0,
+  "must_have_skills": [
+    "python",
+    "sql",
+    "pandas",
+    "scikit-learn",
+    "nlp"
+  ],
+  "nice_to_have_skills": [
+    "fastapi",
+    "numpy",
+    "machine learning",
+    "git",
+    "docker",
+    "streamlit",
+    "next.js",
+    "aws"
+  ],
+  "shortlist_threshold": 70.0,
+  "review_threshold": 50.0
+}
