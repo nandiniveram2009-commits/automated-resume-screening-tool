@@ -62,3 +62,9 @@ Automated-Resume-Screening-Tool/
 ├── api.py                # FastAPI REST endpoints
 ├── requirements.txt      # Project dependencies
 └── README.md             # Project documentation
+
+## Authors
+
+* **GitHub:** [nandiniverma2009](https://github.com)
+* **LinkedIn:** [NandiniVerma](https://linkedin.com)
+*
