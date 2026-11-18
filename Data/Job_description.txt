@@ -1,0 +1,18 @@
+Job Title: Junior Python & Data / NLP Engineer
+
+We are seeking a motivated Python Developer with strong skills in Data Analysis,
+Natural Language Processing (NLP), and API development to join our HR Tech team.
+
+Responsibilities:
+- Build automated data processing and NLP pipelines in Python.
+- Extract, clean, and analyze structured and unstructured text datasets.
+- Develop machine learning models using Scikit-learn, Pandas, and NumPy.
+- Build and maintain REST APIs using FastAPI and integrate with SQL databases.
+- Collaborate using Git and Docker in an agile engineering environment.
+
+Requirements:
+- Bachelor's degree in Computer Science, Data Science, or related field.
+- 2+ years of hands-on experience (including internships or major projects) in Python.
+- Strong proficiency in Python, SQL, Pandas, Scikit-learn, and NLP.
+- Familiarity with FastAPI, Git, and Machine Learning workflows.
+- Nice to have: Docker, Streamlit, Next.js, AWS.
